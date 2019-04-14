@@ -1,0 +1,4 @@
+Dust,low
+Dishes,high
+aaa,high
+bbb,low
