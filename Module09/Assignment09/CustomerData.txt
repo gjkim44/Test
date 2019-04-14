@@ -1,0 +1,4 @@
+Id,FirstName,LastName,Age,Address,PhoneNumber,Email
+1, Han, Solo, 30, 1234 Millenium Ave  Seattle, WA 98700, 123 432 1111, myBudChewy@gmail.com
+2, Luke, Skywalker, 23, 2222 Tatooine Dr.  Seattle, WA 98003, 333 111 2222, theForce@hotmail.com
+
