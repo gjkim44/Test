@@ -1,0 +1,13 @@
+
+ITEM:  COST:
+('Lamp', '75')
+('car', '25,000')
+ITEM:  COST:
+('Dresser', '250')
+('TV', '2500')
+ITEM:  COST:
+ITEM:  COST:
+('car', '23000')
+ITEM:  COST:
+Blender, 150
+Nightstand, 100
