@@ -1,0 +1,8 @@
+c:\users\randal\documents\visual studio 2015\Projects\MyPythonApplication\MyCSharpApplication\bin\Debug\MyCSharpApplication.exe.config
+c:\users\randal\documents\visual studio 2015\Projects\MyPythonApplication\MyCSharpApplication\bin\Debug\MyCSharpApplication.exe
+c:\users\randal\documents\visual studio 2015\Projects\MyPythonApplication\MyCSharpApplication\bin\Debug\MyCSharpApplication.pdb
+c:\users\randal\documents\visual studio 2015\Projects\MyPythonApplication\MyCSharpApplication\obj\Debug\MyCSharpApplication.exe
+c:\users\randal\documents\visual studio 2015\Projects\MyPythonApplication\MyCSharpApplication\obj\Debug\MyCSharpApplication.pdb
+C:\_ClassFiles\_UW\_Classes\_Python\_Python Online 2015\Modules\Module10\PythonAndCSharpDemos\MyCSharpApplication\bin\Debug\MyCSharpApplication.exe.config
+C:\_ClassFiles\_UW\_Classes\_Python\_Python Online 2015\Modules\Module10\PythonAndCSharpDemos\MyCSharpApplication\obj\Debug\MyCSharpApplication.exe
+C:\_ClassFiles\_UW\_Classes\_Python\_Python Online 2015\Modules\Module10\PythonAndCSharpDemos\MyCSharpApplication\obj\Debug\MyCSharpApplication.pdb
